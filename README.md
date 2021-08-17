@@ -19,10 +19,10 @@
 </ul>
       
 #### Languages & Tools:
-<code><img height="22" src="images/c1.png"></code>
-<code><img height="20" src="images/js.png"></code>
-<code><img height="25" src="images/html.png"></code>
-<code><img height="25" src="images/css.png"></code>
+<code><img height="32" src="images/c1.png"></code>
+<code><img height="30" src="images/js.png"></code>
+<code><img height="33" src="images/html.png"></code>
+<code><img height="33" src="images/css.png"></code>
 #### Github Stats:
 <p>
   <img src=https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=tobbiesfake&layout=compact&theme=tokyonight /><br>
