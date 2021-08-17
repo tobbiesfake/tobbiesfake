@@ -1,10 +1,5 @@
-<style>
-  *{
-  text-align:center;
-  }
-</style>
-<h1> Tobbies Profile </h1>
-<img src=https://github-readme-stats.vercel.app/api?username=tobbiesfake&show_icons=true&theme=tokyonight/>
+<h1 text-align:"center"> Tobbies Profile </h1>
+<img src=https://github-readme-stats.vercel.app/api?username=tobbiesfake&show_icons=true&theme=tokyonight />
 
 
 
