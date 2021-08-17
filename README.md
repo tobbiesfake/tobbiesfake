@@ -17,34 +17,6 @@
   <li>Travel <em>(to anywhere, explore the curtures, try their traditional foods,...)</em></li>
   <li>Coffee <em>(Espresso, Capuchino, Machiato, Latte)</em> </li>
 </ul>
-
-#### Education
-<table>
-  <thead>
-    <tr>
-      <th>Dates</td>
-    <th>School</td>
-  </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2008-2012</td>
-      <td>Mo Duc Town Primary School</td>
-    </tr>
-    <tr>
-      <td>2013-2016</td>
-      <td>Nguyen Trai Secondary High School</td>
-    </tr>
-   <tr>
-     <td>2017-2019</td>
-     <td>Pham Van Dong High School</td>
-   </tr>
-    <tr>
-      <td>2019</td>
-     <td>Ton Duc Thang University</td>
-    </tr>
-  </tbody>
-</table>
       
 #### Languages & Tools:
 <code><img height="22" src="images/c1.png"></code>
