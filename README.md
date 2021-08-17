@@ -2,52 +2,49 @@
   <h2>I'm Tobbies</h2>
 </div>
 <p>
-  <em>I am self studying <b>Web Development</em></b><br>
-  <em>Freelance Photographer</em><br>
-  <em>Electronics & Telecomunication Engineering at</em> <strong>Ton Duc Thang University</strong>
+  <em>I’m currently self-studying <b>Web Development</em></b><br>
+  <em>I'm also a Freelance Photographer</em><br>
+  <em>Learning Electronics & Telecomunication Engineering at</em> <strong>Ton Duc Thang University</strong>
 </p>
-  <p><em>HCMC, Vietnam 72115</em><br>
-     <b>Contact Information:</b> Updating...
+  <p><b>Adress📍: </b><em>HCMC, Vietnam 72115</em><br>
+     <b>Contact Information📫:</b> Updating...
   </p>
-    <ul>
-      <li>
-        <h3>Hobbies</h3>
-        <ul>
-          <li>Coding <em>(C/C++, HTML, Java,..)</em> </li>
-          <li>Reading <em>(Finance, Computer Science,..)</em> </li>
-          <li>Travel <em>(to anywhere, explore the curtures, try their traditional foods,...)</em></li>
-          <li>Coffee <em>(Espresso, Capuchino, Machiato, Latte)</em> </li>
-        </ul>
-      </li>
-      <li>
-        <h3>Education</h3>
-        <table>
-          <thead>
-            <tr>
-              <th>Dates</td>
-              <th>School</td>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>2008-2012</td>
-              <td>Mo Duc Town Primary School</td>
-            </tr>
-            <tr>
-              <td>2013-2016</td>
-              <td>Nguyen Trai Secondary High School</td>
-            </tr>
-            <tr>
-              <td>2017-2019</td>
-              <td>Pham Van Dong High School</td>
-            </tr>
-            <tr>
-              <td>2019</td>
-              <td>Ton Duc Thang University</td>
-            </tr>
-          </tbody>
-        </table>
-      </li>
+
+#### Hobbies
+<ul>
+  <li>Coding <em>(C/C++, HTML, Java,..)</em> </li>
+  <li>Reading <em>(Finance, Computer Science,..)</em> </li>
+  <li>Travel <em>(to anywhere, explore the curtures, try their traditional foods,...)</em></li>
+  <li>Coffee <em>(Espresso, Capuchino, Machiato, Latte)</em> </li>
+</ul>
+
+#### Education
+<table>
+  <thead>
+    <tr>
+      <th>Dates</td>
+    <th>School</td>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2008-2012</td>
+      <td>Mo Duc Town Primary School</td>
+    </tr>
+    <tr>
+      <td>2013-2016</td>
+      <td>Nguyen Trai Secondary High School</td>
+    </tr>
+   <tr>
+     <td>2017-2019</td>
+     <td>Pham Van Dong High School</td>
+   </tr>
+    <tr>
+      <td>2019</td>
+     <td>Ton Duc Thang University</td>
+    </tr>
+  </tbody>
+</table>
       
 #### Languages & Tools:
 <code><img height="22" src="images/c1.png"></code>
