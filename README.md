@@ -14,7 +14,7 @@
 <ul>
   <li>Coding <em>(C/C++, HTML, Java,..)</em> </li>
   <li>Reading <em>(Finance, Computer Science,..)</em> </li>
-  <li>Travel <em>(to anywhere, explore the curtures, try their traditional foods,...)</em></li>
+  <li>Travel <em>(to anywhere, explore the cultures, try their traditional foods,...)</em></li>
   <li>Coffee <em>(Espresso, Capuchino, Machiato, Latte)</em> </li>
 </ul>
       
