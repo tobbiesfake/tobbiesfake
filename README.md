@@ -19,14 +19,14 @@
 </ul>
       
 #### Languages & Tools:
-<code><img height="32" src="images/c1.png"></code>
-<code><img height="30" src="images/js.png"></code>
-<code><img height="33" src="images/html.png"></code>
-<code><img height="33" src="images/css.png"></code>
+<code><img height="32" src="images/c1.png" alt="C language"></code>
+<code><img height="30" src="images/js.png" alt="JavaScript"></code>
+<code><img height="33" src="images/html.png" alt="HTML"></code>
+<code><img height="33" src="images/css.png" alt="CSS"></code>
 #### Github Stats:
 <p>
-  <img src=https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=tobbiesfake&layout=compact&theme=tokyonight /><br>
-  <img src=https://github-readme-stats.vercel.app/api?username=tobbiesfake&show_icons=true&theme=tokyonight />
+  <img alt="Most Used Languages" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=tobbiesfake&layout=compact&theme=tokyonight"><br>
+  <img alt="Overview Of Github's Stats" src="https://github-readme-stats.vercel.app/api?username=tobbiesfake&show_icons=true&theme=tokyonight">
 </p>
 
 
