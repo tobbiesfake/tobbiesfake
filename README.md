@@ -1,22 +1,15 @@
-<div align="center">
-  <h2>I'm Tobbies</h2>
-</div>
-<p>
-  I’m a Web Developer<br>
-  I'm also a Freelance Photographer<br>
-  Bachelor of Software Engineering at Ton Duc Thang University
-</p>
-- 📍Adress: Ho Chi Minh City, Vietnam
-- 📫 How to reach me: dangphat.job@gmail.com
-- 🌐Website: Personal Porfolio
-- 🔭 I’m currently working on an private application about system management at Ayotree Inc
-
+<h2>✨I'm Tobbies✨</h2>
+  I’m a Frontend Developer<br>
+- 📍Adress: Ho Chi Minh City, Vietnam<br>
+- 📫 How to reach me: dangphat.job@gmail.com<br>
+- 🌐Website: [Personal Porfolio](https://tobbies-personal-website-tobbiesfake.vercel.app/)<br>
+- 🔭 I’m currently working on an private application about system management<br>
 #### Hobbies
 <ul>
-  <li>Coding <em>(C/C++, HTML, Java,..)</em> </li>
-  <li>Reading <em>(Finance, Computer Science,..)</em> </li>
-  <li>Travel <em>(to anywhere, explore the cultures, try their traditional foods,...)</em></li>
-  <li>Coffee <em>(Espresso, Capuchino, Machiato, Latte)</em> </li>
+  <li>Coding</li>
+  <li>Reading</li>
+  <li>Travel</li>
+  <li>Coffee</li>
 </ul>
       
 #### Languages & Tools:
