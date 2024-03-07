@@ -2,13 +2,14 @@
   <h2>I'm Tobbies</h2>
 </div>
 <p>
-  <em>I’m currently self-studying <b>Web Development</em></b><br>
-  <em>I'm also a Freelance Photographer</em><br>
-  <em>Learning Electronics & Telecomunication Engineering at</em> <strong>Ton Duc Thang University</strong>
+  I’m a Web Developer<br>
+  I'm also a Freelance Photographer<br>
+  Bachelor of Software Engineering at Ton Duc Thang University
 </p>
-  <p><b>Adress📍: </b><em>HCMC, Vietnam 72115</em><br>
-     <b>Contact Information📫:</b> Updating...
-  </p>
+- 📍Adress: Ho Chi Minh City, Vietnam
+- 📫 How to reach me: dangphat.job@gmail.com
+- 🌐Website: Personal Porfolio
+- 🔭 I’m currently working on an private application about system management at Ayotree Inc
 
 #### Hobbies
 <ul>
