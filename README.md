@@ -1,9 +1,11 @@
 <h2>✨I'm Tobbies✨</h2>
-  I’m a Frontend Developer<br>
+<h3>A "visual" Frontend Developer</h3>
+  <br>
 - 📍Adress: Ho Chi Minh City, Vietnam<br>
 - 📫 How to reach me: dangphat.job@gmail.com<br>
 - 🌐Website: [Personal Porfolio](https://tobbies-personal-website-tobbiesfake.vercel.app/)<br>
 - 🔭 I’m currently working on an private application about system management<br>
+
 #### Hobbies
 <ul>
   <li>Coding</li>
